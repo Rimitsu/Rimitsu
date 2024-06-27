@@ -10,7 +10,9 @@ I am a data science professional with a solid foundation in actuarial science an
 - **Excel Mastery:** Proficient in harnessing the power of Microsoft Excel for data manipulation and analysis.
 
 📊 **Current Role:**
-In my current position, I produce daily morning reports for the trading desk, focusing on earnings releases for South African companies and overnight market news. This role has sharpened my skills in understanding market dynamics and communicating key insights to stakeholders.
+My primary role revolves around data science, where I focus on analyzing and interpreting complex datasets to uncover trends and patterns that drive strategic decision-making. I use advanced analytical techniques and machine learning models to solve challenging problems and deliver actionable insights.
+
+In addition to my core data science responsibilities, I also support the trading desk by producing daily morning reports that highlight key earnings releases for South African companies and summarize overnight market news. This secondary aspect of my role has deepened my understanding of market dynamics and honed my ability to communicate critical insights to stakeholders.
 
 💼 **Professional Highlights:**
 - **End-to-End Project Management:** Led a project from data extraction from a SQL database to generating insightful reports.
@@ -19,9 +21,9 @@ In my current position, I produce daily morning reports for the trading desk, fo
 - **LLM Classification Projects:** Developed and refined methods for utilizing large language models (LLMs) to classify and clean data.
 
 📚 **Continuous Learning:**
-I am actively pursuing actuarial exams, aiming to become a fully qualified actuary. I am also dedicated to expanding my expertise in both the actuarial and data science fields.
+I am actively pursuing actuarial exams, aiming to become a fully qualified actuary. Alongside this, I am expanding my expertise in **Natural Language Processing (NLP)** to enhance my skill set in the data science field. I am passionate about staying ahead in both the actuarial and data science domains.
 
 🌐 **Interests:**
 - Staying up-to-date with the latest trends in actuarial science and data science.
-- Exploring new tools and techniques in data analysis and visualization.
+- Exploring new tools and techniques in data analysis, visualization, and NLP.
 - Engaging with the community and sharing knowledge through collaborative projects.
