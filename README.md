@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-Based on your LinkedIn bio and the additional details you provided, here’s a refined and engaging GitHub bio that highlights your skills, experiences, and current role:
-
----
-
 👋 **Hello, I’m Rimitsu!**
 
 I am a data science professional with a solid foundation in actuarial science and a passion for deriving actionable insights from alternative datasets using Python. My journey has taken me from rigorous academic training in actuarial science to a dynamic role where I leverage my analytical skills to process and analyze complex data, ultimately guiding business decisions.
@@ -29,7 +25,3 @@ I am actively pursuing actuarial exams, aiming to become a fully qualified actua
 - Staying up-to-date with the latest trends in actuarial science and data science.
 - Exploring new tools and techniques in data analysis and visualization.
 - Engaging with the community and sharing knowledge through collaborative projects.
-
----
-
-Feel free to tweak this to better match your tone and style. This bio succinctly captures your professional journey, current role, and ongoing learning, making it perfect for your GitHub profile.
